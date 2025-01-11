@@ -26,7 +26,7 @@ A concise Oracle-based data warehouse demo integrating two data sources (**MEMBE
 
 ## Schema Diagram
 
-![Schema Diagram](ETL_Member_SQL_Project/ETL-Schema.png)
+![Schema Diagram](saifa18/ETL_Member_SQL_Project/ETL-Schema.png)
 
 
 
